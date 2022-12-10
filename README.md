@@ -41,7 +41,7 @@ We assume ModelSim to be installed to `/opt`. If this is the case, the binaries 
 
 For `bashrc`:
 ```sh
-export PATH=$PATH:/opt/modelsim_ase/bin
+export PATH=$PATH:/home/username/intelFPGA/20.1/modelsim_ase/bin
 ```
 
 For `zshrc`:
