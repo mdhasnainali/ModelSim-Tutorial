@@ -2,7 +2,7 @@
 
 ## ModelSim Installation on Windows
 
-[Tutorial Link](https://www.youtube.com/watch?v=6-_oCSDKQEI)
+[Tutorial Link](https://www.youtube.com/watch?v=6-_oCSDKQEI) <br>
 [Download Link](https://drive.google.com/file/d/1wBCaPRC66onO3RZL5eu-M3m_B-nsEATH/view)
 
 
